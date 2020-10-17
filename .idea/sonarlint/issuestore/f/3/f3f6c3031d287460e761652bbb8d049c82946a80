@@ -1,0 +1,10 @@
+
+Ÿ
+java:S1319)"The type of the "districtModelArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(³µæÜ8Ù…ï¹Ò.
+™
+java:S1319Z"wThe type of the "filteredList" object should be an interface such as "List" rather than the implementation "ArrayList".(¡•·Õøÿÿÿÿ8Ù…ï¹Ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¯—†
+M
+java:S1659`"0Declare "districtTotalCases" on a separate line.(Ûãæ±8Ù…ï¹Ò.
+>
+java:S1116F"Remove this empty statement.(Åñ­õþÿÿÿÿ8Ù…ï¹Ò.

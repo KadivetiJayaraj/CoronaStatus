@@ -1,0 +1,32 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¯—†
+u
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÆÏÓ“ÿÿÿÿÿ8Ïïì¹Ò.
+]	java:S110+"<This class has 9 parents which is greater than 5 authorized.(†’½ïüÿÿÿÿ8Ïïì¹Ò.
+†
+java:S1157—"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ñëØÁûÿÿÿÿ8Ïïì¹Ò.
+
+java:S1186o"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸˜š_8Ïïì¹Ò.
+k
+java:S1854³"HRemove this useless assignment to local variable "districtNewConfirmed".(­’°±ûÿÿÿÿ8Ïïì¹Ò.
+Y
+java:S1874÷"6Remove this use of "ProgressDialog"; it is deprecated.(ÇÝÆþÿÿÿÿ8Ïïì¹Ò.
+t
+java:S1104="WMake isRefreshed a static final constant or non-public and provide accessors if needed.(Œ×ø8Ïïì¹Ò.
+N
+java:S1444="1Make this "public static isRefreshed" field final(Œ×ø8Ïïì¹Ò.
+S
+java:S1874;"6Remove this use of "ProgressDialog"; it is deprecated.(ðÝýº8Ïïì¹Ò.
+
+java:S1186l"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô—½48Ïïì¹Ò.
+Y
+java:S2696Õ"6Make the enclosing method "static" or remove this set.(‚«èøÿÿÿÿ8Ïïì¹Ò.
+^	java:S125ð"<This block of commented-out lines of code should be removed.(ã¹Ãéúÿÿÿÿ8Ïïì¹Ò.
+O
+java:S1444<"2Make this "public static confirmation" field final(ÕÝï¬8Ïïì¹Ò.
+e
+java:S1854¶"GRemove this useless assignment to local variable "districtNewDeceased".(ºÓøž8Ïïì¹Ò.
+u
+java:S1104<"XMake confirmation a static final constant or non-public and provide accessors if needed.(ÕÝï¬8Ïïì¹Ò.
+X
+java:S2696a"6Make the enclosing method "static" or remove this set.(Úëï¬ùÿÿÿÿ8Ïïì¹Ò.

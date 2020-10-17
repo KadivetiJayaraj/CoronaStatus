@@ -1,0 +1,89 @@
+
+y	java:S116W"XRename this field "textView_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú•Îšÿÿÿÿÿ8þµß¹Ò.
+y	java:S116N"]Rename this field "textView_confirmed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÁæµ8þµß¹Ò.
+q
+java:S1192Ò"SDefine a constant instead of duplicating this literal "totalsamplestested" 5 times.(¥”Àý8ýµß¹Ò.
+V
+java:S1659S"4Declare "textView_recovered_new" on a separate line.(Ë½žŽùÿÿÿÿ8þµß¹Ò.
+S
+java:S1874Z"6Remove this use of "ProgressDialog"; it is deprecated.(ðÝýº8þµß¹Ò.
+\
+java:S1874‡"9Remove this use of "PreferenceManager"; it is deprecated.(ëî¥¬øÿÿÿÿ8þµß¹Ò.
+‚	java:S116O"aRename this field "textView_confirmed_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ãù¥úÿÿÿÿ8þµß¹Ò.
+‚	java:S116S"aRename this field "textView_recovered_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë½žŽùÿÿÿÿ8þµß¹Ò.
+Y	java:S125é"<This block of commented-out lines of code should be removed.(¥«Á8þµß¹Ò.
+I
+java:S1172¤"+Remove this unused method parameter "view".(±ÖËî8þµß¹Ò.
+x
+java:S1450\"VRemove the "DataRef" field and declare it as a local variable in the relevant methods.(•÷ø´ÿÿÿÿÿ8þµß¹Ò.
+I
+java:S1659P"-Declare "textView_active" on a separate line.(éØì8þµß¹Ò.
+M
+java:S1659W"+Declare "textView_date" on a separate line.(ú•Îšÿÿÿÿÿ8þµß¹Ò.
+N
+java:S1659V",Declare "textView_tests" on a separate line.(¼þ›°øÿÿÿÿ8þµß¹Ò.
+~	java:S116U"]Rename this field "textView_death_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÍÍ¾øÿÿÿÿ8þµß¹Ò.
+M
+java:S1659R"0Declare "textView_recovered" on a separate line.(œêÃß8þµß¹Ò.
+f
+java:S1874‡"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(ëî¥¬øÿÿÿÿ8þµß¹Ò.
+N
+java:S1444I"1Make this "public static isRefreshed" field final(Œ×ø8ýµß¹Ò.
+u	java:S116T"YRename this field "textView_death" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÎÜ§8þµß¹Ò.
+n
+java:S14508"QRemove the "dl" field and declare it as a local variable in the relevant methods.(œ¸øü8þµß¹Ò.
+u
+java:S1104H"XMake confirmation a static final constant or non-public and provide accessors if needed.(ÕÝï¬8þµß¹Ò.
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ø¥©úÿÿÿÿ8þµß¹Ò.
+u	java:S116P"ZRename this field "textView_active" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éØì8þµß¹Ò.
+Y
+java:S1874"6Remove this use of "ProgressDialog"; it is deprecated.(™›ìÎúÿÿÿÿ8þµß¹Ò.
+p
+java:S3776Ã"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(žØÖÒ8þµß¹Ò.
+s	java:S116\"RRename this field "DataRef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•÷ø´ÿÿÿÿÿ8þµß¹Ò.
+M
+java:S1659X"0Declare "textView_tests_new" on a separate line.(ù¼ë8þµß¹Ò.
+¤
+java:S1186¿"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(šÄ»Œúÿÿÿÿ8þµß¹Ò.
+X
+java:S1854ˆ":Remove this useless assignment to local variable "editor".(É³îŠ8þµß¹Ò.
+g
+java:S1854Õ"DRemove this useless assignment to local variable "confirmedNewCopy".(±³ßÅûÿÿÿÿ8þµß¹Ò.
+M
+java:S1659Y"+Declare "textview_time" on a separate line.(¬¯’úÿÿÿÿ8þµß¹Ò.
+z	java:S116Q"^Rename this field "textView_active_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š²­½8þµß¹Ò.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(Úëï¬ùÿÿÿÿ8þµß¹Ò.
+s	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðÛžñùÿÿÿÿ8þµß¹Ò.
+W
+java:S3516–"9Refactor this method to not always return the same value.(·¿°¬8ýµß¹Ò.
+s
+java:S1450:"QRemove the "nv" field and declare it as a local variable in the relevant methods.(ÿìøˆøÿÿÿÿ8þµß¹Ò.
+z	java:S116V"YRename this field "textView_tests" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼þ›°øÿÿÿÿ8þµß¹Ò.
+y	java:S116X"]Rename this field "textView_tests_new" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¼ë8þµß¹Ò.
+y	java:S116R"]Rename this field "textView_recovered" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œêÃß8þµß¹Ò.
+I
+java:S1481ˆ"+Remove this unused "editor" local variable.(É³îŠ8þµß¹Ò.
+R
+java:S1659U"0Declare "textView_death_new" on a separate line.(ÓÍÍ¾øÿÿÿÿ8þµß¹Ò.
+X
+java:S1481Õ"5Remove this unused "confirmedNewCopy" local variable.(±³ßÅûÿÿÿÿ8þµß¹Ò.
+N
+java:S1172©"+Remove this unused method parameter "view".(ä¡ì¸øÿÿÿÿ8þµß¹Ò.
+O
+java:S1444H"2Make this "public static confirmation" field final(ÕÝï¬8ýµß¹Ò.
+a
+java:S2184ù"CCast one of the operands of this subtraction operation to a "long".(ÂùçŒ8ýµß¹Ò.
+V	java:S1106"<This class has 9 parents which is greater than 5 authorized.(ù‡¹êüÿÿÿÿ
+t
+java:S1104I"WMake isRefreshed a static final constant or non-public and provide accessors if needed.(Œ×ø8þµß¹Ò.
+I
+java:S1659T",Declare "textView_death" on a separate line.(…ÎÜ§8þµß¹Ò.
+V
+java:S1659O"4Declare "textView_confirmed_new" on a separate line.(‡Ãù¥úÿÿÿÿ8þµß¹Ò.
+Y
+java:S2696™"6Make the enclosing method "static" or remove this set.(‚«èøÿÿÿÿ8þµß¹Ò.
+N
+java:S1659Q"1Declare "textView_active_new" on a separate line.(Š²­½8þµß¹Ò.
+y	java:S116Y"XRename this field "textview_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¯’úÿÿÿÿ8þµß¹Ò.
+^	java:S125ç"<This block of commented-out lines of code should be removed.(Žáøéýÿÿÿÿ8þµß¹Ò.

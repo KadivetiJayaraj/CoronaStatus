@@ -1,0 +1,24 @@
+
+X	java:S125\"<This block of commented-out lines of code should be removed.(òœßÖ8™Œç¹Ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìËÙ
+\
+java:S1854f":Remove this useless assignment to local variable "object".(›šôíøÿÿÿÿ8™Œç¹Ò.
+M
+java:S1481f"+Remove this unused "object" local variable.(›šôíøÿÿÿÿ8™Œç¹Ò.
+S
+java:S1659%"1Declare "perDistrictDeceased" on a separate line.(ßœëÆøÿÿÿÿ8™Œç¹Ò.
+O
+java:S1659+"-Declare "perDistrictName" on a separate line.(­èñ—üÿÿÿÿ8™Œç¹Ò.
+O
+java:S1659*"2Declare "perDistrictRecovered" on a separate line.(¹£Áå8™Œç¹Ò.
+V
+java:S1659("4Declare "perDistrictNewDeceased" on a separate line.(Ï’ÿÿÿÿÿ8™Œç¹Ò.
+R
+java:S1659'"5Declare "perDistrictNewRecovered" on a separate line.(ä¹Ë„8™Œç¹Ò.
+]	java:S110!"<This class has 9 parents which is greater than 5 authorized.(¬ÃÜõøÿÿÿÿ8™Œç¹Ò.
+W
+java:S1659&"5Declare "perDistrictNewConfirmed" on a separate line.(¨×æÌøÿÿÿÿ8™Œç¹Ò.
+L
+java:S1659)"/Declare "perDistrictUpdate" on a separate line.(ÎÉõ8™Œç¹Ò.
+Q
+java:S1659$"/Declare "perDistrictActive" on a separate line.(ı‘ºûÿÿÿÿ8™Œç¹Ò.

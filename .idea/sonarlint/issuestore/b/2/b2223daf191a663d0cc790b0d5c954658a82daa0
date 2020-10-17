@@ -1,0 +1,22 @@
+
+N
+java:S1659'",Declare "perStateActive" on a separate line.(‡ÍÌşøÿÿÿÿ8Û¦ä¹Ò.
+O
+java:S1659*"2Declare "perStateNewRecovered" on a separate line.(’á”8Ä ã¹Ò.
+X	java:S125b"<This block of commented-out lines of code should be removed.(÷´íü8çüæ¹Ò.
+]	java:S110$"<This class has 9 parents which is greater than 5 authorized.(«’Öİüÿÿÿÿ8çüæ¹Ò.
+S
+java:S1659+"1Declare "perStateNewDeceased" on a separate line.(Ê“Ûüÿÿÿÿ8Ä ã¹Ò.
+N
+java:S1659)"2Declare "perStateNewConfirmed" on a separate line.(£îº8Ä ã¹Ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìËÙ
+L
+java:S1659-"/Declare "perStateRecovered" on a separate line.(ïğÄ³8Ä ã¹Ò.
+N
+java:S1659,",Declare "perStateUpdate" on a separate line.(‚±›Üüÿÿÿÿ8Ä ã¹Ò.
+G
+java:S1659."*Declare "perstateName" on a separate line.(‹Ã”î8çüæ¹Ò.
+M
+java:S1172"+Remove this unused method parameter "view".(ø¾ßÛıÿÿÿÿ8çüæ¹Ò.
+K
+java:S1659(".Declare "perStateDeceased" on a separate line.(°¨ğ·8Ä ã¹Ò.

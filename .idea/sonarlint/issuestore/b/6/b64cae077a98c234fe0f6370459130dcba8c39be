@@ -1,0 +1,16 @@
+
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(†÷Â•ıÿÿÿÿ
+u
+java:S1450"SRemove the "dots" field and declare it as a local variable in the relevant methods.(·Èâˆşÿÿÿÿ8 ÜŞ¹Ò.
+~
+java:S1450"aRemove the "myViewPagerAdapter" field and declare it as a local variable in the relevant methods.(Š‹Ï”8 ÜŞ¹Ò.
+M
+java:S1874R"0Remove this use of "fromHtml"; it is deprecated.(”Íãš8 ÜŞ¹Ò.
+£
+java:S1186r"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô‹º«ùÿÿÿÿ8 ÜŞ¹Ò.
+
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£¼õè8 ÜŞ¹Ò.
+€
+java:S1450ƒ"]Remove the "layoutInflater" field and declare it as a local variable in the relevant methods.(†üªŞûÿÿÿÿ8 ÜŞ¹Ò.
+Ÿ
+java:S1186…"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿ¼Ã¤8 ÜŞ¹Ò.

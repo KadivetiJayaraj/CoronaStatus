@@ -1,0 +1,8 @@
+
+™
+java:S1319Y"wThe type of the "filteredList" object should be an interface such as "List" rather than the implementation "ArrayList".(¯ÀáÙüÿÿÿÿ8¥â¹Ò.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇØÏâ
+J
+java:S1659`"-Declare "stateTotalCases" on a separate line.(÷ğ×—8¥â¹Ò.
+¥
+java:S1319)"‚The type of the "statewiseModelArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÓÊ»ªıÿÿÿÿ8¥â¹Ò.

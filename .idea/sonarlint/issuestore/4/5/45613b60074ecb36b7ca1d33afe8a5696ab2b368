@@ -1,0 +1,10 @@
+
+™
+java:S1319e"wThe type of the "filteredList" object should be an interface such as "List" rather than the implementation "ArrayList".(ëê¯•úÿÿÿÿ8…”ï¹Ò.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“°­‡øÿÿÿÿ
+§
+java:S1319/"„The type of the "countrywiseModelArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ù‘ª¥ùÿÿÿÿ8…”ï¹Ò.
+G
+java:S1659l"*Declare "rankTextView" on a separate line.(±Û§Ñ8…”ï¹Ò.
+L
+java:S1659l"/Declare "countryTotalCases" on a separate line.(±Û§Ñ8…”ï¹Ò.

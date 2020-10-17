@@ -1,0 +1,30 @@
+
+}
+java:S1450 "[Remove the "mPreferences" field and declare it as a local variable in the relevant methods.(ş¤Ğ÷úÿÿÿÿ8öîŞ¹Ò.
+p
+java:S1450"SRemove the "skip" field and declare it as a local variable in the relevant methods.(¼“¦µ8öîŞ¹Ò.
+?
+java:S1659""Declare "skip" on a separate line.(¼“¦µ8öîŞ¹Ò.
+t
+java:S1450"WRemove the "btnReset" field and declare it as a local variable in the relevant methods.(¼“¦µ8öîŞ¹Ò.
+u
+java:S1450"XRemove the "btnSignup" field and declare it as a local variable in the relevant methods.(¼“¦µ8öîŞ¹Ò.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(·¡ïõøÿÿÿÿ
+D
+java:S1659"'Declare "btnSignup" on a separate line.(¼“¦µ8öîŞ¹Ò.
+C
+java:S1659"&Declare "btnReset" on a separate line.(¼“¦µ8öîŞ¹Ò.
+t
+java:S1450"WRemove the "btnLogin" field and declare it as a local variable in the relevant methods.(ææ™Æ8öîŞ¹Ò.
+M
+java:S1659"+Declare "inputPassword" on a separate line.(‚ö°ãûÿÿÿÿ8öîŞ¹Ò.
+S
+java:S1068#"6Remove this unused "mFirebaseAnalytics" private field.( ı¹8öîŞ¹Ò.
+t
+java:S1450"WRemove the "textview" field and declare it as a local variable in the relevant methods.(¼“¦µ8öîŞ¹Ò.
+V
+java:S1874-"9Remove this use of "PreferenceManager"; it is deprecated.(›ìµ–8öîŞ¹Ò.
+`
+java:S1874-"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(›ìµ–8öîŞ¹Ò.
+~
+java:S1450#"aRemove the "mFirebaseAnalytics" field and declare it as a local variable in the relevant methods.( ı¹8öîŞ¹Ò.

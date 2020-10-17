@@ -1,0 +1,47 @@
+
+T
+java:S2696 "6Make the enclosing method "static" or remove this set.(Ñýçæ8±šú¹Ò.
+]	java:S110)"<This class has 9 parents which is greater than 5 authorized.(š›¨èûÿÿÿÿ8±šú¹Ò.
+u
+java:S1104;"XMake confirmation a static final constant or non-public and provide accessors if needed.(ÕÝï¬8±šú¹Ò.
+~
+java:S1192š"[Use already-defined constant 'COUNTRY_NEW_CONFIRMED' instead of duplicating its value here.(›”þÉúÿÿÿÿ8±šú¹Ò.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“°­‡øÿÿÿÿ
+X
+java:S2696]"6Make the enclosing method "static" or remove this set.(Úëï¬ùÿÿÿÿ8±šú¹Ò.
+T
+java:S1874ú"6Remove this use of "ProgressDialog"; it is deprecated.(±¦ç™8±šú¹Ò.
+S
+java:S1874:"6Remove this use of "ProgressDialog"; it is deprecated.(ðÝýº8±šú¹Ò.
+w
+java:S1192—"TUse already-defined constant 'COUNTRY_ACTIVE' instead of duplicating its value here.(òÊ¾üýÿÿÿÿ8±šú¹Ò.
+x
+java:S1192›"ZUse already-defined constant 'COUNTRY_NEW_DECEASED' instead of duplicating its value here.(¼¡”×8±šú¹Ò.
+p
+java:S1192•"RUse already-defined constant 'COUNTRY_NAME' instead of duplicating its value here.(ÖÈ£„8±šú¹Ò.
+
+java:S1186h"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô—½48±šú¹Ò.
+w
+java:S1104<"UMake testValue a static final constant or non-public and provide accessors if needed.(¾äÔ¾þÿÿÿÿ8±šú¹Ò.
+~
+java:S1192"[Use already-defined constant 'COUNTRY_NEW_RECOVERED' instead of duplicating its value here.(Õê¯ûúÿÿÿÿ8±šú¹Ò.
+Y
+java:S2696Õ"6Make the enclosing method "static" or remove this set.(‚«èøÿÿÿÿ8±šú¹Ò.
+t
+java:S1104="WMake isRefreshed a static final constant or non-public and provide accessors if needed.(Œ×ø8±šú¹Ò.
+v
+java:S1192œ"SUse already-defined constant 'COUNTRY_TESTS' instead of duplicating its value here.(²·µùÿÿÿÿ8±šú¹Ò.
+
+java:S1186k"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸˜š_8±šú¹Ò.
+u
+java:S1192–"WUse already-defined constant 'COUNTRY_CONFIRMED' instead of duplicating its value here.(åÔ¾¯8±šú¹Ò.
+N
+java:S1444="1Make this "public static isRefreshed" field final(Œ×ø8±šú¹Ò.
+z
+java:S1192˜"WUse already-defined constant 'COUNTRY_RECOVERED' instead of duplicating its value here.(¡­èþûÿÿÿÿ8±šú¹Ò.
+Q
+java:S1444<"/Make this "public static testValue" field final(¾äÔ¾þÿÿÿÿ8±šú¹Ò.
+O
+java:S1444;"2Make this "public static confirmation" field final(ÕÝï¬8±šú¹Ò.
+y
+java:S1192™"VUse already-defined constant 'COUNTRY_DECEASED' instead of duplicating its value here.(öù’ÿÿÿÿÿ8±šú¹Ò.
